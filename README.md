@@ -1,5 +1,9 @@
 # SSD_Team_04_Website_Development_for_CSG_Lab
 # contributor @soumitraghosh388
+
+#for local run:
+go to server and do : npm start
+go to client and do : npm run dev
 #Deployment for MERN
 
 #!/bin/bash
